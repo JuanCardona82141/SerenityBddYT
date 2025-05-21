@@ -6,8 +6,8 @@ import io.cucumber.java.en.Then;
 
 public class playTrendingMusicDef
 {
-    @When("The user navigates to the tranding section")
-    public void the_user_navigates_to_the_tranding_section()
+    @When("The user navigates to the trending section")
+    public void the_user_navigates_to_the_trending_section()
     {
 
     }

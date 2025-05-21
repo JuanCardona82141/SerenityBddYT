@@ -1,4 +1,4 @@
-package com.juan.stepDefinitions;
+package com.juan.stepDefinitions.hooks;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import net.serenitybdd.screenplay.actors.OnlineCast;
